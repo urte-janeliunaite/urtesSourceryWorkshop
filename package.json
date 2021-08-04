@@ -1,0 +1,23 @@
+{
+  "name": "sourceryworkshop",
+  "version": "1.0.0",
+  "description": "Testing testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urte-janeliunaite/urtesSourceryWorkshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urte-janeliunaite/urtesSourceryWorkshop/issues"
+  },
+  "homepage": "https://github.com/urte-janeliunaite/urtesSourceryWorkshop#readme",
+  "dependencies": {
+    "@playwright/test": "^1.13.1"
+  }
+}
