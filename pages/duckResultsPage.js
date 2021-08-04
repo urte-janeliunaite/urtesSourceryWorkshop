@@ -4,6 +4,6 @@ exports.DuckResultsPage = class DuckResultsPage {
         this.page = page;
     }
     async getGeneratedPassword() {
-    return await this.page.textContent(generatedPasswordSelector);
+    await this.page.textContent(generatedPasswordSelector);
     }
 }
